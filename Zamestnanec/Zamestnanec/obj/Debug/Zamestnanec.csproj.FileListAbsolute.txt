@@ -1,0 +1,10 @@
+G:\PROgramovani\Zamestnanec\Zamestnanec\bin\Debug\Zamestnanec.exe.config
+G:\PROgramovani\Zamestnanec\Zamestnanec\bin\Debug\Zamestnanec.exe
+G:\PROgramovani\Zamestnanec\Zamestnanec\bin\Debug\Zamestnanec.pdb
+G:\PROgramovani\Zamestnanec\Zamestnanec\obj\Debug\Zamestnanec.csprojAssemblyReference.cache
+G:\PROgramovani\Zamestnanec\Zamestnanec\obj\Debug\Zamestnanec.Form1.resources
+G:\PROgramovani\Zamestnanec\Zamestnanec\obj\Debug\Zamestnanec.Properties.Resources.resources
+G:\PROgramovani\Zamestnanec\Zamestnanec\obj\Debug\Zamestnanec.csproj.GenerateResource.cache
+G:\PROgramovani\Zamestnanec\Zamestnanec\obj\Debug\Zamestnanec.csproj.CoreCompileInputs.cache
+G:\PROgramovani\Zamestnanec\Zamestnanec\obj\Debug\Zamestnanec.exe
+G:\PROgramovani\Zamestnanec\Zamestnanec\obj\Debug\Zamestnanec.pdb
